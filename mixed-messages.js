@@ -1,4 +1,4 @@
-let nouns = ["dog", "man", "pope", "nun", "cowboy", "ninja", "bear", "cat", "zebra", "taxidermist", "rooster", "pilot", "rabbi", "priest", "moth", "psychologist"];
+let nouns = ["dog", "man", "pope", "nun", "cowboy", "ninja", "bear", "cat", "zebra", "taxidermist", "rooster", "pilot", "rabbi", "priest", "moth", "psychologist", "Ben Affleck"];
 let verbs = ["walk", "run", "jump", "skip", "dosie-do", "line dance", "backflip"];
 let punchlines = ["That'll teach you.", "Ouch!", "That's not a knife. This is a knife.", "Thanks. I'll be here all week.", "How\'d you get to be so dumb?"]
 
